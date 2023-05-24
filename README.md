@@ -13,4 +13,6 @@ Athena: We can query the data from AWS Glue Data Catalog and get insights on the
 
 versions:
 Python 3.8.5
+kafka 3.4.0
+java 1.8.0_372
 
